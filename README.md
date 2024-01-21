@@ -6,7 +6,7 @@ Facial Emotion Recognition
   
   * Face detection : using haarcascade pretrained model ; link to model -> https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
   
-  * Emotion classification : We trained a ConvNN on a dataset ; link to dataset -> (maybe ne7ot el data beta3etna on Drive).
+  * Emotion classification : We trained a ConvNN on a dataset ; link to dataset -> https://www.kaggle.com/datasets/msambare/fer2013.
   
   * The application runs in a real time manner.
 
