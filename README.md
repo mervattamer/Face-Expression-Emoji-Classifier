@@ -17,6 +17,6 @@ Facial Emotion Recognition
     ```
   - For training check the notebook main.py
 
-**Test Cases** :
+**Test Video* :
   - https://youtu.be/JYPJorg5VAU
   
