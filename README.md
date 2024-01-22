@@ -12,6 +12,10 @@ Facial Emotion Recognition
 
 **Manual** :
   - For inference :
-    > python EmoRec.py
+    ``` shell
+    python EmoRec.py
+    ```
   - For training check the notebook main.py
+**Test Cases** :
+  - https://youtu.be/JYPJorg5VAU
   
